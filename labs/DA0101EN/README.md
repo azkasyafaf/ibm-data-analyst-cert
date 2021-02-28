@@ -1,6 +1,6 @@
 ## Data Analysis with Python
 
-Courses 6 of 9 in the "IBM Data Analyst Professional Certificate".
+Courses 7 of 9 in the "IBM Data Analyst Professional Certificate".
 
 ### Files Details
 In this course, there is only one Lab per week. The Jupyter Notebook contained in this directory is originated from week 1 until week 5.
